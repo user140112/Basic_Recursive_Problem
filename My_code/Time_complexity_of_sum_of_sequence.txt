@@ -1,0 +1,3 @@
+In this program, n contains the input value.The number of operation is 4,three arithematic and
+one assignment operation.Thought we change the value of n,that doesn't impact the number of
+operation.So,Time complexity of this program is O(1).

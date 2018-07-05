@@ -1,0 +1,4 @@
+In this program, we have three distinct assignment operation namely (n1=10),(n2=20),(result=n1+n2)
+and one arithematic operation (n1+n2).So, our total operation is 4.If we change our input values 
+such as (n1=50) and (n2=300).Then our total operation still remain 4.So, the number of opertions 
+don't depend on input value.We can say that the time complexity of our program is O(1) that means constant time.
