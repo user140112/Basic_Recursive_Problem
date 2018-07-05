@@ -1,0 +1,9 @@
+In this program, If we change the value of input variable n,the number of operation is increased
+according to n.So,the number of operation is depend on value of n.
+
+if n=10
+   then, number of operation is = 10
+if n=100
+   then, number of operation is = 100
+
+So,Time complexity of this program is =  O(n).
