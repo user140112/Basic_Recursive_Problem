@@ -1,19 +1,12 @@
 # Miscellaneous
-<style>
-a{
-    font-size: 18px;
 
-}
-</style>
 <div style="line-height:25px;">
     <ul>
-        <li><a href="https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence.cpp">Sum Of Sequence</a></li>
-        <li><a href="https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence_using_loop.cpp">Sum Of Sequence using loop</a></li>
-        <Li><a href="https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/Simple_assignment_program.cpp">Simple assignment programp</a></li>
+        <li><a style="font-size:18px;" href="https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence.cpp">Sum Of Sequence</a></li>
+        <li><a style="font-size:18px;"  href="https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence_using_loop.cpp">Sum Of Sequence using loop</a></li>
+        <Li><a style="font-size:18px;" href="https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/Simple_assignment_program.cpp">Simple assignment programp</a></li>
     </ul>
 </div>
-
-
 
 
 
