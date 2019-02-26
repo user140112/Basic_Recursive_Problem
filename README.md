@@ -1,12 +1,23 @@
 # Miscellaneous
+<style>
+a{
+    font-size: 18px;
 
-* #### [Sum Of Sequence](https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence.cpp)
-* #### [Sum Of Sequence using loop](https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence_using_loop.cpp)
-* #### [Simple assignment program](https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/Simple_assignment_program.cpp)
+}
+</style>
+<div style="line-height:25px;">
+    <ul>
+        <li><a href="https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence.cpp">Sum Of Sequence</a></li>
+        <li><a href="https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence_using_loop.cpp">Sum Of Sequence using loop</a></li>
+        <Li><a href="https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/Simple_assignment_program.cpp">Simple assignment programp</a></li>
+    </ul>
+</div>
 
 
 
-I am just **checking** the text in *Italics*  formate
+
+
+Common text I am just **checking** the text in *Italics*  formate
 
 [Nesta CMS](http://effectif.com/nesta)
 
