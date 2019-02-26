@@ -1,8 +1,10 @@
 # Miscellaneous
 
-* ### [**Sum Of Sequence**](https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence.cpp)
-* ### [**Sum Of Sequence using loop**](https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence_using_loop.cpp)
-* ### [**Simple assignment program**](https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/Simple_assignment_program.cpp)
+* #### [Sum Of Sequence](https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence.cpp)
+* #### [Sum Of Sequence using loop](https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/sum_of_sequence_using_loop.cpp)
+* #### [Simple assignment program](https://github.com/user140112/Basic_Recursive_Problem/blob/master/My_another/Simple_assignment_program.cpp)
+
+
 
 I am just **checking** the text in *Italics*  formate
 
